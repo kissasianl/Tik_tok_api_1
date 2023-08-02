@@ -32,4 +32,4 @@ Start scrapper
 
 ## Authors
 
-- [@Ghost6446](https://www.github.com/octokatherine)
+- [@Ghost6446](https://www.github.com/Ghost6446)
