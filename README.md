@@ -1,6 +1,6 @@
 # Tiktok api
 
-Get video for TikTok without watermark
+Get video for TikTok without watermark, api bypass "snaptik.app" 
 
 ## Installation
 
